@@ -26,3 +26,4 @@ Built for web agencies, designers, developers and MSPs who would rather know fir
 
 - [DNS incident response runbooks and checklists](https://github.com/dnsnotify/dns-incident-response)
 - [Printable client website monitoring checklist](https://github.com/dnsnotify/dns-incident-response/blob/main/assets/client-website-monitoring-checklist.pdf)
+- [Client-facing certificate incident update](https://github.com/dnsnotify/dns-incident-response/blob/main/samples/client-facing-incident-update.md)
